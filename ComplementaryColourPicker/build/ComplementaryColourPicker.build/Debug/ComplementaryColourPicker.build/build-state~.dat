@@ -1,0 +1,228 @@
+TComplementaryColourPicker
+v7
+r0
+t351567898.313049
+cCheck dependencies
+cProcessInfoPlistFile /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Info.plist ComplementaryColourPicker-Info.plist
+cCopyStringsFile /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/ak/akHg2lgJE-ePaGzLuaeLBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComplementaryColourPicker_Prefix-fiwydisxsotlsxatdqjjpnoiskha/ComplementaryColourPicker_Prefix.pch.gch ComplementaryColourPicker_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/main.o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ComplementaryColourPickerAppDelegate.o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPickerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ColourCalculator.o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/MacOS/ComplementaryColourPicker normal x86_64
+cTouch /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D670E0E00000000000000EE
+t1298599438
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.h
+c000000004F4446540000000000000153
+t1329874516
+s339
+i<Cocoa/Cocoa.h>
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m
+c000000004F4448470000000000000160
+t1329875015
+s352
+i"ColourCalculator.h"
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPickerAppDelegate.h
+c000000004F44424B0000000000000171
+t1329873483
+s369
+i<Cocoa/Cocoa.h>
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPickerAppDelegate.m
+c000000004F44424B00000000000001B8
+t1329873483
+s440
+i"ComplementaryColourPickerAppDelegate.h"
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPicker_Prefix.pch
+c000000004F44424B00000000000000B5
+t1329873483
+s181
+i<Cocoa/Cocoa.h>
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/English.lproj/InfoPlist.strings
+c000000004F44424B000000000000002D
+t1329873483
+s45
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/English.lproj/MainMenu.xib
+c000000004F4447850000000000030539
+t1329874821
+s197945
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ColourCalculator.o
+t1329875097
+s14904
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ComplementaryColourPicker.LinkFileList
+c000000004F44485E0000000000000218
+t1329875038
+s536
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ComplementaryColourPickerAppDelegate.o
+t1329875097
+s21592
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/main.o
+t1329875096
+s5032
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app
+t1329875098
+s102
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Info.plist
+t1329875039
+s940
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/MacOS/ComplementaryColourPicker
+t1329875098
+s16224
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/PkgInfo
+t1329875039
+s8
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1329875041
+s92
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Resources/English.lproj/MainMenu.nib
+t1329875042
+s37768
+
+N/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/main.m
+c000000004F44424B000000000000010F
+t1329873483
+s271
+i<Cocoa/Cocoa.h>
+
+N/var/folders/ak/akHg2lgJE-ePaGzLuaeLBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComplementaryColourPicker_Prefix-fiwydisxsotlsxatdqjjpnoiskha/ComplementaryColourPicker_Prefix.pch.gch
+t1329875095
+s54306576
+
+NComplementaryColourPicker-Info.plist
+c000000004F44424B00000000000003EA
+t1329873483
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies351567838#351567839#0(0"0(0#1#0"8241996810561610752#0"0#
+
+CCompileC build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ColourCalculator.o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s351567897.052605
+e351567897.499215
+r1
+xCompileC
+xbuild/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ColourCalculator.o
+x/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m: In function '-[ColourCalculator init]':
+o/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m:20: warning: control reaches end of non-void function
+lSLF07#2@85"Compile /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m351567897#351567897#0(251"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m: In function '-[ColourCalculator init]':/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m:20: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function351567897#119#132#0(6@77"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m351567815#20#0#20#0#40"control reaches end of non-void function0(0#0#77"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m8599059008#2054"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-generated-files.hmap -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-own-target-headers.hmap -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-all-target-headers.hmap -iquote /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-project-headers.hmap -F/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/include -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/DerivedSources/x86_64 -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/DerivedSources -include /var/folders/ak/akHg2lgJE-ePaGzLuaeLBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComplementaryColourPicker_Prefix-fiwydisxsotlsxatdqjjpnoiskha/ComplementaryColourPicker_Prefix.pch -c /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ColourCalculator.m -o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ColourCalculator.o0#
+
+CCompileC build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ComplementaryColourPickerAppDelegate.o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPickerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s351567896.405355
+e351567897.070562
+r1
+xCompileC
+xbuild/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ComplementaryColourPickerAppDelegate.o
+x/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPickerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPickerAppDelegate.m351567896#351567897#0(0"0(0#0#97"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPickerAppDelegate.m8599049504#2094"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-generated-files.hmap -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-own-target-headers.hmap -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-all-target-headers.hmap -iquote /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-project-headers.hmap -F/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/include -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/DerivedSources/x86_64 -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/DerivedSources -include /var/folders/ak/akHg2lgJE-ePaGzLuaeLBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComplementaryColourPicker_Prefix-fiwydisxsotlsxatdqjjpnoiskha/ComplementaryColourPicker_Prefix.pch -c /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPickerAppDelegate.m -o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ComplementaryColourPickerAppDelegate.o0#
+
+CCompileC build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/main.o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s351567896.404300
+e351567897.052365
+r1
+xCompileC
+xbuild/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/main.o
+x/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/main.m351567896#351567897#0(0"0(0#0#65"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/main.m8617004352#2030"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-generated-files.hmap -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-own-target-headers.hmap -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-all-target-headers.hmap -iquote /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-project-headers.hmap -F/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/include -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/DerivedSources/x86_64 -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/DerivedSources -include /var/folders/ak/akHg2lgJE-ePaGzLuaeLBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComplementaryColourPicker_Prefix-fiwydisxsotlsxatdqjjpnoiskha/ComplementaryColourPicker_Prefix.pch -c /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/main.m -o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/English.lproj/MainMenu.xib
+s351567839.222676
+e351567842.305251
+r1
+xCompileXIB
+x/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib351567839#351567842#0(0"0(0#0#85"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/English.lproj/MainMenu.xib8616970624#442"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s351567839.184672
+e351567841.435524
+r1
+xCopyStringsFile
+x/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings351567839#351567841#0(0"0(0#0#90"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/English.lproj/InfoPlist.strings8617093376#423"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Resources/English.lproj0#
+
+CLd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/MacOS/ComplementaryColourPicker normal x86_64
+s351567897.499308
+e351567898.238854
+r1
+xLd
+x/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/MacOS/ComplementaryColourPicker
+xnormal
+xx86_64
+lSLF07#2@146"Link /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/MacOS/ComplementaryColourPicker351567897#351567898#0(0"0(0#0#0"8619031520#732"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug -F/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug -filelist /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/Objects-normal/x86_64/ComplementaryColourPicker.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/MacOS/ComplementaryColourPicker0#
+
+CProcessInfoPlistFile /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Info.plist ComplementaryColourPicker-Info.plist
+s351567839.132489
+e351567839.184563
+r1
+xProcessInfoPlistFile
+x/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Info.plist
+xComplementaryColourPicker-Info.plist
+lSLF07#2@44"Process ComplementaryColourPicker-Info.plist351567839#351567839#0(0"0(0#0#95"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPicker-Info.plist30399774230511736#424"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    builtin-infoPlistUtility ComplementaryColourPicker-Info.plist -genpkginfo /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/ak/akHg2lgJE-ePaGzLuaeLBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComplementaryColourPicker_Prefix-fiwydisxsotlsxatdqjjpnoiskha/ComplementaryColourPicker_Prefix.pch.gch ComplementaryColourPicker_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s351567842.305633
+e351567896.404151
+r1
+xProcessPCH
+x/var/folders/ak/akHg2lgJE-ePaGzLuaeLBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComplementaryColourPicker_Prefix-fiwydisxsotlsxatdqjjpnoiskha/ComplementaryColourPicker_Prefix.pch.gch
+xComplementaryColourPicker_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Precompile ComplementaryColourPicker_Prefix.pch351567842#351567896#0(0"0(0#0#95"/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPicker_Prefix.pch8616316544#1898"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-generated-files.hmap -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-own-target-headers.hmap -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-all-target-headers.hmap -iquote /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/ComplementaryColourPicker-project-headers.hmap -F/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/include -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/DerivedSources/x86_64 -I/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/ComplementaryColourPicker.build/Debug/ComplementaryColourPicker.build/DerivedSources -c /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/ComplementaryColourPicker_Prefix.pch -o /var/folders/ak/akHg2lgJE-ePaGzLuaeLBk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComplementaryColourPicker_Prefix-fiwydisxsotlsxatdqjjpnoiskha/ComplementaryColourPicker_Prefix.pch.gch0#
+
+CTouch /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app
+s351567898.239044
+e351567898.312993
+r1
+xTouch
+x/Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app
+lSLF07#2@106"Touch /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app351567898#351567898#0(0"0(0#0#0"8617508544#189"    cd /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker    /usr/bin/touch -c /Users/Lenna/Documents/CocoaWork/ComplementaryColourPicker/build/Debug/ComplementaryColourPicker.app0#
+
